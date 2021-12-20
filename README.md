@@ -1,2 +1,2 @@
 # Tableau-Infographic-of-Shark-Inccident
-![Screenshot](Shark_incident.png)
+![Screenshot](Shark_Inccident.png)
